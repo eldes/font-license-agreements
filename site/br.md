@@ -44,7 +44,7 @@ _Para esse tipo de uso o Licenciado deve requisitar do Licenciante ou seus distr
 
 O Licenciado pode fazer cópias de segurança da Web-fonte somente para propósitos de arquivamento, desde que mantenha a guarda exclusiva e controle sobre tais cópias.
 
-#### 2.4 Gráficas e birôs de impressão
+#### 2.4 Disponibilização para terceiros
 
 O Licenciado pode fornecer a Web-fonte a um designer gráfico, estúdio ou editora que esteja trabalhando em seu nome, apenas se esse concordar em usar a Web-fonte exclusivamente para o trabalho do Licenciado, concordar com os termos dessa licença e não reter cópias da Web-fonte após a conclusão do trabalho.
 

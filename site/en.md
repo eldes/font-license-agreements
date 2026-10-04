@@ -44,7 +44,7 @@ _For such uses, the Licensee must obtain an appropriate license from the Licenso
 
 The Licensee may make backup copies of the Web-font solely for archival purposes, provided that the Licensee retains exclusive custody and control over such copies.
 
-#### 2.4 Printers and service bureaus
+#### 2.4 Making available to third parties
 
 The Licensee may provide the Web-font to a graphic designer, studio, or publisher working on the Licensee’s behalf only if they agree to use the Web-font exclusively for the Licensee’s work, agree to the terms of this license, and do not retain copies of the Web-font after completion of the work.
 
