@@ -8,7 +8,7 @@ Ao descarregar os ficheiros da Fonte ou ao descomprimir e/ou abrir o pacote, o L
 
 “Fonte” significa um software utilizado para gerar caracteres tipográficos quando utilizado em hardware e software apropriados.
 
-“Unidade Licenciada” significa a Aplicação especificada nesta licença na qual a Fonte será incorporada. Uma nova versão da mesma Aplicação não conta como uma Unidade separada; uma Aplicação distinta conta.
+“Unidade Licenciada” significa a Aplicação especificada nesta licença na qual a Fonte será incorporada. Novas versões da mesma Aplicação (por exemplo, 1.0, 2.0 e 3.0) não contam como uma Unidade separada. Já uma variação da Aplicação que siga a sua própria linha independente de versões (por exemplo, uma variante temática ou derivada de um jogo) conta como uma Aplicação distinta e, portanto, como uma Unidade separada.
 
 ### 2. Termos da Licença
 

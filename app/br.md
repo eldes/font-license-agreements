@@ -8,7 +8,7 @@ Ao baixar os arquivos da Fonte ou descompactar e/ou abrir o pacote, o Licenciado
 
 “Fonte” significa um software usado para gerar caracteres tipográficos quando usado em hardware e software apropriados.
 
-“Unidade Licenciada” significa o Aplicativo especificado nesta licença onde a Fonte será incorporada. Uma nova versão do mesmo Aplicativo não conta como uma Unidade separada; um Aplicativo distinto conta.
+“Unidade Licenciada” significa o Aplicativo especificado nesta licença onde a Fonte será incorporada. Novas versões do mesmo Aplicativo (por exemplo, 1.0, 2.0 e 3.0) não contam como uma Unidade separada. Já uma variação do Aplicativo que siga sua própria linha independente de versões (por exemplo, uma variante temática ou derivada de um jogo) conta como um Aplicativo distinto e, portanto, como uma Unidade separada.
 
 ### 2. Termos da Licença
 

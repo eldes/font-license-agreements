@@ -8,7 +8,7 @@ By downloading the Font files or by extracting and/or opening the package, the L
 
 “Font” means software used to generate typographic characters when used on appropriate hardware and software.
 
-“Licensed Unit” means the Application specified in this license in which the Font will be embedded. A new version of the same Application does not count as a separate Unit; a distinct Application does.
+“Licensed Unit” means the Application specified in this license in which the Font will be embedded. New versions of the same Application (for example, 1.0, 2.0, and 3.0) do not count as a separate Unit. A variation of the Application that follows its own independent line of versions (for example, a themed or derived variant of a game), however, counts as a distinct Application and therefore as a separate Unit.
 
 ### 2. Grant of License
 

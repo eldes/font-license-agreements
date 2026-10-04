@@ -8,7 +8,7 @@ Ao descarregar os ficheiros da Fonte ou ao descomprimir e/ou abrir o pacote, o L
 
 “Fonte” significa um software utilizado para gerar caracteres tipográficos quando utilizado em hardware e software apropriados.
 
-“Unidade Licenciada” significa o número de versões do E-book nas quais a Fonte será incorporada. Para evitar dúvidas, cada edição do E-book conta como uma Unidade separada. Contudo, as variações regionais ou de formato de cada edição não contam como uma Unidade separada.
+“Unidade Licenciada” significa o E-book especificado nesta licença no qual a Fonte será incorporada. Novas edições ou revisões do mesmo E-book (por exemplo, para corrigir erros ou atualizar o conteúdo), bem como as suas variações regionais ou de formato, não contam como uma Unidade separada; um E-book distinto conta.
 
 ### 2. Termos da Licença
 

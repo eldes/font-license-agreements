@@ -12,3 +12,5 @@
 - `site` (`br`, `pt`, `en`): 2.2 permite plataformas de criação/hospedagem de sites (Canva, Wix, Squarespace) sob condições.
 - `ebook` e `app` (`br`, `pt`, `en`): migrados dos templates do salander-agency-api, com a mesma estrutura numerada, itálico e
   seções 2.5 a 8; `pt` em português de Portugal.
+- `app` e `ebook` (`br`, `pt`, `en`): definição de Unidade Licenciada — no App, uma variação com linha própria de versões conta como Unidade separada;
+  no E-book, novas edições/revisões deixam de contar como Unidade separada.

@@ -8,7 +8,7 @@ By downloading the Font files or by extracting and/or opening the package, the L
 
 “Font” means software used to generate typographic characters when used on appropriate hardware and software.
 
-“Licensed Unit” means the number of E-book editions in which the Font will be embedded. For the avoidance of doubt, each edition of the E-book counts as a separate Unit. However, regional or format variations of each edition do not count as a separate Unit.
+“Licensed Unit” means the E-book specified in this license in which the Font will be embedded. New editions or revisions of the same E-book (for example, to correct errors or update the content), as well as its regional or format variations, do not count as a separate Unit; a distinct E-book does.
 
 ### 2. Grant of License
 
