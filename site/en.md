@@ -26,6 +26,8 @@ The Licensor grants the Licensee a non-exclusive license to use the Web-font on 
 
 The Web-font must be embedded in the Website using the CSS @font-face technique and must be stored on the same hosting space, owned or contracted by the Licensee, and on the same Domain as the Website’s other files.
 
+The Licensee may also use website-building and hosting platforms (for example, Canva, Wix, or Squarespace), provided that the Website is the referenced Website, the Web-font is used only on it, and the platform does not make it available for download or for use by third parties.
+
 If the Website generates documents using the Web-font (for example, EPS, ePUB, JPEG, PNG, GIF, SVG, or PDF) without functioning as a graphic application, a Desktop License must be acquired.
 
 If the Website functions analogously to a graphic application, allowing end users to create, edit, or dynamically generate typographic documents, an App License must be acquired.

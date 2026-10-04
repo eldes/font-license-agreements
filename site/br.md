@@ -26,6 +26,8 @@ O Licenciante concede ao Licenciado uma licença não exclusiva para usar a Web-
 
 A Web-fonte deve ser incorporada no Website por meio da técnica de @font-face CSS e deve ser armazenada no mesmo espaço de hospedagem, de propriedade ou contratado pelo Licenciado, e no mesmo Domínio dos demais arquivos do Website.
 
+O Licenciado também pode usar plataformas de criação e hospedagem de sites (por exemplo, Canva, Wix ou Squarespace), desde que o Website seja o referido Website, a Web-fonte seja usada apenas nele e a plataforma não a disponibilize para download nem para uso por terceiros.
+
 Caso o Website produza documentos utilizando a Web-fonte (por exemplo, EPS, ePUB, JPEG, PNG, GIF, SVG ou PDF), sem que funcione como um aplicativo gráfico, deverá ser adquirida uma Licença Desktop.
 
 Caso o Website funcione de forma análoga a um aplicativo gráfico, permitindo a criação, edição ou geração dinâmica de documentos tipográficos por usuários finais, será necessária a aquisição de uma Licença App.
