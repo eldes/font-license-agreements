@@ -10,7 +10,7 @@ Ao baixar os arquivos da Fonte ou descompactar e/ou abrir o pacote, o Licenciado
 
 “Dispositivo” significa um componente de hardware, software ou firmware ao qual um Usuário é capaz de dar comandos (seja pelo teclado ou de outra forma), independentemente da localização do indivíduo, do Dispositivo ou da Fonte.
 
-“Usuário” significa um indivíduo dando comandos (seja pelo teclado ou de outra forma) a um Dispositivo no qual a Fonte está instalada, independentemente da localização do indivíduo, do Dispositivo ou da Fonte.
+“Usuário” significa um indivíduo dando comandos (seja pelo teclado ou de outra forma) a um Dispositivo no qual a Fonte está instalada, ou que acesse a Fonte por meio de uma Plataforma (conforme 2.4), independentemente da localização do indivíduo, do Dispositivo ou da Fonte.
 
 “Unidade Licenciada” significa o número de Usuários simultâneos permitidos pela Licença para usar a Fonte em uma única localização geográfica. Uma única localização geográfica é, em particular, o lugar do seu local de trabalho. A restrição geográfica não se aplica a computadores portáteis se eles são de sua propriedade.
 
@@ -27,27 +27,41 @@ O Licenciado pode incorporar a Fonte em documentos, aplicações ou Dispositivos
 _Este Contrato não permite que o Licenciado incorpore a Fonte:_
 
 - _Em um website usando @font-face CSS;_
-- _Em uma aplicação baseada em servidor e usada por usuários remotos;_
+- _Em uma aplicação baseada em servidor e usada por usuários remotos, exceto conforme permitido em 2.4;_
 - _Em aplicativos/apps iOS, Android ou Windows RT;_
 - _Em publicações digitais do tipo e-books._
 
 _Para esse tipo de uso o Licenciado deve requisitar do Licenciante ou seus distribuidores autorizados uma licença apropriada. Um custo adicional pode ser cobrado por essa extensão da licença._
 
-#### 2.3 Cópia de segurança
+#### 2.3 Logotipos
+
+O Licenciado pode usar a Fonte no desenvolvimento e na distribuição de logotipos e demais elementos de identidade visual para seus próprios fins pessoais ou comerciais, em formato rasterizado (p. ex.: PNG, JPEG, TIFF etc.) ou vetorial (p. ex.: EPS, SVG etc.), desde que o logotipo seja distribuído em um formato que não permita a edição do texto com a Fonte (por exemplo, com o texto convertido em curvas).
+
+#### 2.4 Plataformas de design online
+
+O Licenciado pode enviar a Fonte para a biblioteca de fontes ou o kit de marca de uma plataforma de design online (por exemplo, Canva ou Adobe Express, daqui em diante “Plataforma”) e usá-la ali para criar designs próprios, desde que:
+
+- cada pessoa com acesso à Fonte pela Plataforma (por exemplo, cada membro de uma equipe vinculada ao mesmo kit de marca) seja considerada um Usuário e esteja coberta pelas Unidades Licenciadas adquiridas;
+- a Plataforma use a Fonte apenas para exibir e exportar os designs do Licenciado, sem disponibilizá-la para download nem para uso por terceiros;
+- o Licenciado não publique nem compartilhe, para edição por terceiros, modelos (templates) ou designs editáveis que usem a Fonte (por exemplo, por link de modelo, biblioteca pública ou loja de modelos), e não use a Plataforma para publicar websites com a Fonte.
+
+O compartilhamento de designs apenas para visualização e de arquivos exportados (PDF, PNG etc.) é permitido.
+
+#### 2.5 Cópia de segurança
 
 O Licenciado pode fazer cópias de segurança da Fonte somente para propósitos de arquivamento, desde que mantenha a guarda exclusiva e controle sobre tais cópias.
 
-#### 2.4 Gráficas e birôs de impressão
+#### 2.6 Gráficas e birôs de impressão
 
 O Licenciado pode deixar uma cópia digitalizada da Fonte usada em um documento específico para uma gráfica ou birô de impressão para imprimir esse documento específico (esse documento não deve ser editado pela gráfica ou birô de impressão). Em caso de qualquer modificação no documento ou uso da Fonte para outros propósitos, a gráfica ou birô de impressão devem comprar sua própria licença de uso da Fonte.
 
 O Licenciado pode fornecer a Fonte a um designer gráfico, gráfica ou birô de impressão que esteja trabalhando em seu nome apenas se esses concordam em usar a Fonte exclusivamente para o trabalho do Licenciado, se concordam com os termos dessa licença e não retenham cópias da Fonte após a conclusão do trabalho.
 
-#### 2.5 Cópias
+#### 2.7 Cópias
 
 O Licenciado não pode copiar a Fonte ou autorizar terceiros a copiar a Fonte, exceto conforme expressamente permitido neste Contrato. Qualquer cópia da Fonte deve conter os mesmos direitos de uso, marca registrada e outras informações de propriedade que os originais.
 
-#### 2.6 Modificações
+#### 2.8 Modificações
 
 Com exceção do que foi concedido em 2.2, o Licenciado não pode modificar, adaptar, traduzir, fazer engenharia reversa, decompilar, desmontar, alterar ou tentar descobrir o código-fonte da Fonte. Se o Licenciado quiser fazer modificações na Fonte, deve obter consentimento prévio e por escrito do Licenciante.
 

@@ -10,7 +10,7 @@ By downloading the Font files or by extracting and/or opening the package, the L
 
 “Device” means a component of hardware, software, or firmware to which a User is able to give commands (whether by keyboard or otherwise), regardless of the location of the individual, the Device, or the Font.
 
-“User” means an individual giving commands (whether by keyboard or otherwise) to a Device on which the Font is installed, regardless of the location of the individual, the Device, or the Font.
+“User” means an individual giving commands (whether by keyboard or otherwise) to a Device on which the Font is installed, or who accesses the Font through a Platform (as defined in 2.4), regardless of the location of the individual, the Device, or the Font.
 
 “Licensed Unit” means the number of simultaneous Users permitted by the License to use the Font at a single geographic location. A single geographic location is, in particular, the place of your workplace. The geographic restriction does not apply to portable computers owned by you.
 
@@ -27,27 +27,41 @@ The Licensee may embed the Font in documents, applications, or Devices, either a
 _This Agreement does not permit the Licensee to embed the Font:_
 
 - _On a website using CSS @font-face;_
-- _In a server-based application used by remote users;_
+- _In a server-based application used by remote users, except as permitted in 2.4;_
 - _In iOS, Android, or Windows RT applications;_
 - _In digital publications such as e-books._
 
 _For such uses, the Licensee must obtain an appropriate license from the Licensor or its authorized distributors. An additional fee may be charged for such license extension._
 
-#### 2.3 Backup copies
+#### 2.3 Logos
+
+The Licensee may use the Font to develop and distribute logos and other brand identity elements for the Licensee’s own personal or commercial purposes, in rasterized (e.g. PNG, JPEG, TIFF) or vector (e.g. EPS, SVG) format, provided that the logo is distributed in a format that does not permit editing of the text with the Font (for example, with the text converted to outlines).
+
+#### 2.4 Online design platforms
+
+The Licensee may upload the Font to the font library or brand kit of an online design platform (for example, Canva or Adobe Express, hereinafter the “Platform”) and use it there to create the Licensee’s own designs, provided that:
+
+- each person who has access to the Font through the Platform (for example, each member of a team linked to the same brand kit) is considered a User and is covered by the Licensed Units purchased;
+- the Platform uses the Font only to display and export the Licensee’s designs, without making it available for download or for use by third parties;
+- the Licensee does not publish or share, for editing by third parties, templates or editable designs that use the Font (for example, through a template link, public library, or template marketplace), and does not use the Platform to publish websites using the Font.
+
+Sharing designs for viewing only, and sharing exported files (PDF, PNG, etc.), is permitted.
+
+#### 2.5 Backup copies
 
 The Licensee may make backup copies of the Font solely for archival purposes, provided that the Licensee retains exclusive custody and control over such copies.
 
-#### 2.4 Printers and service bureaus
+#### 2.6 Printers and service bureaus
 
 The Licensee may provide a copy of the Font used in a specific document to a printer or service bureau solely for the purpose of printing that specific document (which must not be edited by the printer or service bureau). In the event of any modification to the document or use of the Font for other purposes, the printer or service bureau must purchase its own license to use the Font.
 
 The Licensee may provide the Font to a graphic designer, printer, or service bureau working on the Licensee’s behalf only if they agree to use the Font exclusively for the Licensee’s work, agree to the terms of this license, and do not retain copies of the Font after completion of the work.
 
-#### 2.5 Copies
+#### 2.7 Copies
 
 The Licensee may not copy the Font or authorize third parties to copy the Font, except as expressly permitted in this Agreement. Any copy of the Font must contain the same usage rights, trademark notices, and proprietary information as the original.
 
-#### 2.6 Modifications
+#### 2.8 Modifications
 
 Except as granted in 2.2, the Licensee may not modify, adapt, translate, reverse engineer, decompile, disassemble, alter, or attempt to discover the source code of the Font. If the Licensee wishes to make modifications to the Font, prior written consent from the Licensor is required.
 
