@@ -1,6 +1,8 @@
 # Changelog
 
-## Unreleased
+## 1.0.0 — 2026-10-04
+
+Primeira versão publicada: `desktop`, `logotype`, `site`, `ebook` e `app` em `br`, `pt` e `en`.
 
 - `desktop` (`br`, `pt`, `en`): texto-base a partir do site e dos templates do
   salander-agency-api, com numeração e itálico. `pt` reescrito em português de Portugal.

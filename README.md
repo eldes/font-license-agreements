@@ -30,3 +30,12 @@ são usados onde o contrato original os usa. Parágrafos em uma única linha.
 - Termo definido para a fonte: "Fonte" (pt/br) e "Font" (en); "Web-fonte"/"Web-font" no tipo `site`.
 - Mudanças de texto vão num PR/commit próprio e entram no `CHANGELOG.md`;
   releases são tags `vX.Y.Z` (os consumidores fixam uma tag).
+
+## Versões
+
+Cada release é uma tag `version-X.Y.Z` (mesmo padrão dos outros repositórios), valendo para o
+repositório inteiro. A versão **não** é escrita nos `.md`: a salander-agency-api a lê da tag que
+estiver em `EULA_REF` e a mostra no rodapé do PDF e no cabeçalho `X-Eula-Version` de
+`GET /eulas/:type/:locale` (o site a exibe no fim do contrato); a tag também fica registrada em cada
+`Eula` gerada. Mudança de texto → entrada no `CHANGELOG.md` → tag nova → atualizar `EULA_REF`.
+
